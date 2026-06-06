@@ -1,9 +1,9 @@
 # Matheus Praes
 
-I build optimization, data, and automation tools for supply chain and export logistics.
+I build optimization, data, and automation tools for supply chain, import and export logistics.
 
-I work in export logistics and supply chain, and I build the software that runs behind
-it — truck-load optimizers, forecast-accuracy pipelines, and SAP automation. The
+I work in import and export logistics and supply chain, and I build the software that runs
+behind it — truck-load optimizers, forecast-accuracy pipelines, and SAP automation. The
 combination is deliberate: I understand the operation and I can ship the code, so the
 tools solve the real problem rather than the assumed one.
 
@@ -28,4 +28,3 @@ Each repository is self-contained, runs with one command, and uses synthetic dat
 ## Contact
 
 - Email: matheuspraes62@gmail.com
-- LinkedIn: _add your LinkedIn URL here_

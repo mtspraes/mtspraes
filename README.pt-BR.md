@@ -2,12 +2,9 @@
 
 # Matheus Praes
 
-Construo ferramentas de otimização, dados e automação para supply chain e logística de importação e exportação.
+Construo ferramentas de otimização, dados e automação para supply chain e para logística de importação e exportação.
 
-Atuo em logística de importação e exportação e supply chain, e construo o software que roda por
-trás disso — otimizadores de carga de caminhão, pipelines de acurácia de previsão e automação
-de SAP. A combinação é proposital: entendo a operação e sei entregar o código, então as
-ferramentas resolvem o problema real, e não o suposto.
+Atuo em logística de importação e exportação e supply chain, e construo o software que roda por trás da operação. Isso inclui otimizadores para carregamento de caminhão, pipelines que medem a acurácia da previsão e automação de SAP. A combinação é proposital. Entendo a operação e sei entregar o código, então as ferramentas resolvem o problema real, e não o suposto.
 
 No Brasil. Português (nativo), inglês (profissional). Aberto a vagas remotas.
 
@@ -17,7 +14,7 @@ No Brasil. Português (nativo), inglês (profissional). Aberto a vagas remotas.
 | --- | --- | --- |
 | [export-allocation-system](https://github.com/mtspraes/export-allocation-system) | Motor em duas etapas que distribui estoque compartilhado aos mercados por prioridade e o empacota no menor número de caminhões usando um algoritmo genético com simulated annealing. [Demo ao vivo](https://mtspraes.github.io/export-allocation-system/web/). | JavaScript, otimização |
 | [forecast-vs-actual](https://github.com/mtspraes/forecast-vs-actual) | Pipeline de dados que mede a aderência da previsão de exportação: ETL multi-fonte, KPIs de acurácia (bias, MAPE, hit rate), gráficos e um relatório Excel. | Python, pandas |
-| [sap-shipment-automation](https://github.com/mtspraes/sap-shipment-automation) | RPA dirigido por chat para logística no SAP: uma fila de jobs via Teams + Power Automate que cria e divide documentos de transporte, com o SAP atrás de um driver mockável. | JavaScript, RPA |
+| [sap-shipment-automation](https://github.com/mtspraes/sap-shipment-automation) | RPA dirigido por chat para logística no SAP: uma fila de jobs via Teams e Power Automate que cria e divide documentos de transporte, com o SAP atrás de um driver mockável. | JavaScript, RPA |
 
 Cada repositório é autocontido, roda com um comando e usa dados sintéticos.
 

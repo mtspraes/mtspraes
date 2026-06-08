@@ -2,12 +2,9 @@
 
 # Matheus Praes
 
-I build optimization, data, and automation tools for supply chain, import and export logistics.
+I build optimization, data, and automation tools for supply chain and for import and export logistics.
 
-I work in import and export logistics and supply chain, and I build the software that runs
-behind it — truck-load optimizers, forecast-accuracy pipelines, and SAP automation. The
-combination is deliberate: I understand the operation and I can ship the code, so the
-tools solve the real problem rather than the assumed one.
+I work in import and export logistics and supply chain, and I build the software that runs behind the operation. That includes optimizers for truck loading, pipelines that measure forecast accuracy, and SAP automation. The combination is deliberate. I understand the operation and I can ship the code, so the tools solve the real problem instead of the assumed one.
 
 Based in Brazil. Portuguese (native), English (professional). Open to remote roles.
 
@@ -16,8 +13,8 @@ Based in Brazil. Portuguese (native), English (professional). Open to remote rol
 | Project | Description | Stack |
 | --- | --- | --- |
 | [export-allocation-system](https://github.com/mtspraes/export-allocation-system) | Two-stage engine that distributes shared stock to markets by priority, then packs it into the fewest trucks using a genetic algorithm with simulated annealing. [Live demo](https://mtspraes.github.io/export-allocation-system/web/). | JavaScript, optimization |
-| [forecast-vs-actual](https://github.com/mtspraes/forecast-vs-actual) | Data pipeline measuring export forecast adherence: multi-source ETL, accuracy KPIs (bias, MAPE, hit rate), charts, and an Excel report. | Python, pandas |
-| [sap-shipment-automation](https://github.com/mtspraes/sap-shipment-automation) | Chat-driven RPA for SAP logistics: a Teams + Power Automate job queue that creates and splits shipment documents, with SAP behind a mockable driver. | JavaScript, RPA |
+| [forecast-vs-actual](https://github.com/mtspraes/forecast-vs-actual) | Data pipeline that measures export forecast adherence: multi-source ETL, accuracy KPIs (bias, MAPE, hit rate), charts, and an Excel report. | Python, pandas |
+| [sap-shipment-automation](https://github.com/mtspraes/sap-shipment-automation) | Chat-driven RPA for SAP logistics: a Teams and Power Automate job queue that creates and splits shipment documents, with SAP behind a mockable driver. | JavaScript, RPA |
 
 Each repository is self-contained, runs with one command, and uses synthetic data.
 
